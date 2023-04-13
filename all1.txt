@@ -1,4 +1,0 @@
-xss
-sqli
-example1.php
-example2.php
